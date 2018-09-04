@@ -1,0 +1,7 @@
+c:\users\mmehndiratta\source\repos\CartManagementSystem\CartManagementSystem\bin\Debug\CartManagementSystem.exe.config
+c:\users\mmehndiratta\source\repos\CartManagementSystem\CartManagementSystem\bin\Debug\CartManagementSystem.exe
+c:\users\mmehndiratta\source\repos\CartManagementSystem\CartManagementSystem\bin\Debug\CartManagementSystem.pdb
+c:\users\mmehndiratta\source\repos\CartManagementSystem\CartManagementSystem\obj\Debug\CartManagementSystem.csprojAssemblyReference.cache
+c:\users\mmehndiratta\source\repos\CartManagementSystem\CartManagementSystem\obj\Debug\CartManagementSystem.csproj.CoreCompileInputs.cache
+c:\users\mmehndiratta\source\repos\CartManagementSystem\CartManagementSystem\obj\Debug\CartManagementSystem.exe
+c:\users\mmehndiratta\source\repos\CartManagementSystem\CartManagementSystem\obj\Debug\CartManagementSystem.pdb
