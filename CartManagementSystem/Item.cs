@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,9 +8,9 @@ namespace CartManagementSystem
 {
     class Item
     {
-        public int itemID { get; set; }
-        public string itemName { get; set; }
-        public double itemPrice { get; set; }
-        public int itemQuantity { get; set; }
+        public int ItemID { get; set; }
+        public string ItemName { get; set; }
+        public double ItemPrice { get; set; }
+        public int ItemQuantity { get; set; }
     }
 }
