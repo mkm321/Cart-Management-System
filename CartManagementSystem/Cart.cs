@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -29,10 +29,10 @@ namespace CartManagementSystem
         {
             for(int i = 0; i < items.Count; i++)
             {
-                Console.WriteLine("Item Id " + items[i].itemID);
-                Console.WriteLine("Item Name " + items[i].itemName);
-                Console.WriteLine("Item Price " + items[i].itemPrice);
-                Console.WriteLine("Item Quantity " + items[i].itemQuantity);
+                Console.WriteLine("Item Id " + items[i].ItemID);
+                Console.WriteLine("Item Name " + items[i].ItemName);
+                Console.WriteLine("Item Price " + items[i].ItemPrice);
+                Console.WriteLine("Item Quantity " + items[i].ItemQuantity);
             }
         }
 
@@ -40,7 +40,7 @@ namespace CartManagementSystem
         {
             for(int i = 0; i < items.Count; i++)
             {
-                totalAmount += (items[i].itemPrice * items[i].itemQuantity);
+                totalAmount += (items[i].ItemPrice * items[i].ItemQuantity);
             }
             return totalAmount;
         }
